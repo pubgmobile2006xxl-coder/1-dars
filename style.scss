@@ -44,13 +44,8 @@ body {
         justify-content: center;
         align-items: center;
 
-        // Agar haqiqiy rasm ishlatsangiz, bu qismni yoqing:
-        // background-image: url('yo-manga-rasmi.jpg');
-        // background-size: cover;
-        // background-position: center;
     }
 
-    // "Manga" yozuvi (badge)
     &__badge {
         position: absolute;
         top: 15px;
