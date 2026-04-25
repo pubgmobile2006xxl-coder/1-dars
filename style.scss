@@ -2,11 +2,10 @@ $primary-color: #ff6600;
 $secondary-color: #333; 
 $background-color: #f4f4f4; 
 $card-background: #fff; 
-$font-family: 'Poppins', sans-serif; // Shrift
-$border-radius: 12px; // Burchaklarni yumshatish
-$transition-speed: 0.3s; // Animatsiyalar tezligi
+$font-family: 'Poppins', sans-serif;
+$border-radius: 12px; 
+$transition-speed: 0.3s;
 
-// Umumiy uslublar
 body {
     font-family: $font-family;
     background-color: $background-color;
